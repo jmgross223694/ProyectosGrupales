@@ -1,0 +1,993 @@
+# depslib dependency file v1.0
+1604774503 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\fecha.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"fecha.h"
+
+1607728336 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\cliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"archivo_actividades_por_cliente.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+	"actividades.h"
+	"menu.h"
+
+1607377545 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\cliente.h
+	"fecha.h"
+	"actividades_por_cliente.h"
+
+1604337149 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\fecha.h
+
+1607728578 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"rlutil.h"
+	"cliente.h"
+	"fecha.h"
+	"menu.h"
+	"archivo_clientes.h"
+	"archivo_actividades_por_cliente.h"
+
+1606005624 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\cliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"archivo_actividades_por_cliente.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+	"actividades.h"
+	"menu.h"
+
+1605422334 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\cliente.h
+	"fecha.h"
+	"actividades_por_cliente.h"
+
+1604347948 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\fecha.h
+
+1604785302 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\fecha.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"fecha.h"
+
+1606269396 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"rlutil.h"
+	"cliente.h"
+	"fecha.h"
+	"menu.h"
+	"archivo_clientes.h"
+
+1607455564 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\menu.h
+
+1607726570 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\menu.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"rlutil.h"
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+	"archivo_abonos.h"
+	"abonos.h"
+	"abonoCliente.h"
+	"archivo_abonos_por_cliente.h"
+	"reportes.h"
+	"arqueos_de_caja.h"
+	"archivo_arqueos_de_caja.h"
+
+1606536863 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1606589593 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonos.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"abonos.h"
+	"archivo_abonos.h"
+
+1606258340 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonos.h
+
+1604006057 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonos_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"abonos_por_cliente.h"
+
+1604286399 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonos_por_cliente.h
+	"fecha.h"
+
+1605410208 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades.h
+
+1606424410 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"archivo_actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"rlutil.h"
+
+1605658967 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades_por_cliente.h
+	"fecha.h"
+
+1603636106 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\menu.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"rlutil.h"
+
+1571569938 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1603996896 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\abonos.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"abonos.h"
+
+1604297198 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\abonos.h
+
+1604016856 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\abonos_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"abonos_por_cliente.h"
+
+1604297198 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\abonos_por_cliente.h
+	"fecha.h"
+
+1604347948 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\fecha.h
+
+1605636126 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1605421008 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\actividades.h
+
+1571580738 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605672276 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"archivo_actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"rlutil.h"
+
+1605669766 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\actividades_por_cliente.h
+	"fecha.h"
+
+1605669978 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\cliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"archivo_actividades_por_cliente.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+	"actividades.h"
+	"menu.h"
+
+1605422334 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\cliente.h
+	"fecha.h"
+	"actividades_por_cliente.h"
+
+1604785302 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\fecha.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"fecha.h"
+
+1605499354 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"rlutil.h"
+	"cliente.h"
+	"fecha.h"
+	"menu.h"
+	"archivo_clientes.h"
+
+1605830103 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\menu.h
+
+1605836214 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\menu.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"rlutil.h"
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+
+1607450732 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"reportes.h"
+	"abonoCliente.h"
+	"archivo_movimientos_de_caja.h"
+
+1607450761 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\reportes.h
+	"fecha.h"
+
+1607380079 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_clientes.h
+
+1607724738 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_clientes.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+
+1605624317 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades.h
+	"actividades.h"
+
+1606535208 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1607728336 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"cliente.h"
+	"actividades_por_cliente.h"
+	"rlutil.h"
+	"archivo_actividades_por_cliente.h"
+	"archivo_actividades.h"
+
+1606614575 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades_por_cliente.h
+	"actividades_por_cliente.h"
+
+1605635116 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_actividades.h
+	"actividades.h"
+
+1605663804 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_actividades_por_cliente.h
+	"actividades_por_cliente.h"
+
+1605636126 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1605663804 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades_por_cliente.h"
+	"rlutil.h"
+	"archivo_actividades_por_cliente.h"
+	"archivo_actividades.h"
+
+1605829132 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_clientes.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+
+1605423482 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_clientes.h
+
+1604017018 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"reportes.h"
+
+1604022408 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\reportes.h
+
+1606356594 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\abonos.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"abonos.h"
+	"archivo_abonos.h"
+
+1606269140 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\abonos.h
+
+1604016856 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\abonos_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"abonos_por_cliente.h"
+
+1604297198 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\abonos_por_cliente.h
+	"fecha.h"
+
+1605636126 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1605421008 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\actividades.h
+
+1571580738 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605635116 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_actividades.h
+	"actividades.h"
+
+1606357158 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1606400646 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"cliente.h"
+	"actividades_por_cliente.h"
+	"rlutil.h"
+	"archivo_actividades_por_cliente.h"
+	"archivo_actividades.h"
+
+1605669766 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\actividades_por_cliente.h
+	"fecha.h"
+
+1606393494 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_actividades_por_cliente.h
+	"actividades_por_cliente.h"
+
+1606002378 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_clientes.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+
+1606001902 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_clientes.h
+
+1606358628 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\menu.h
+
+1606398248 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\menu.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"rlutil.h"
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+	"archivo_abonos.h"
+	"abonos.h"
+
+1604017018 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"reportes.h"
+
+1604022408 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\reportes.h
+
+1606005808 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"archivo_actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"rlutil.h"
+
+1606005898 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+	"fecha.h"
+	"menu.h"
+
+1606001750 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\movimientos_de_caja.h
+	"fecha.h"
+
+1605836214 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+
+1605836343 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\movimientos_de_caja.h
+	"fecha.h"
+
+1605836343 c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\archivo_movimientos_de_caja.h
+	"movimientos_de_caja.h"
+
+1605835714 source:c:\users\joanl\onedrive\documentos\materias\laboratorio de computacion ii\gym\your_gym\movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+	"fecha.h"
+	"menu.h"
+
+1607375697 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+
+1606659530 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\movimientos_de_caja.h
+	"fecha.h"
+
+1607375502 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_movimientos_de_caja.h
+	"movimientos_de_caja.h"
+
+1607374190 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+	"fecha.h"
+	"menu.h"
+
+1606256396 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos.h
+	"abonos.h"
+
+1606418416 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"archivo_abonos.h"
+	"abonos.h"
+
+1606267196 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_abonos.h
+	"abonos.h"
+
+1606356942 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_abonos.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"archivo_abonos.h"
+	"abonos.h"
+
+1606005372 source:c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+
+1606005404 c:\users\doña justa\pictures\camera roll\img (no eliminar)\kzk.exe\proyecto final\your_gym\archivo_movimientos_de_caja.h
+	"movimientos_de_caja.h"
+
+1607375306 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonocliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"abonoCliente.h"
+	"fecha.h"
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_abonos.h"
+	"abonos.h"
+	"archivo_abonos_por_cliente.h"
+	"abonoCliente.h"
+	"archivo_actividades.h"
+	"actividades.h"
+	"archivo_actividades_por_cliente.h"
+	"actividades_por_cliente.h"
+	"archivo_movimientos_de_caja.h"
+	"movimientos_de_caja.h"
+	"menu.h"
+
+1606662859 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonocliente.h
+	"fecha.h"
+
+1606622579 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos_por_cliente.h
+	"abonoCliente.h"
+
+1607723215 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"archivo_abonos.h"
+	"archivo_abonos_por_cliente.h"
+	"abonoCliente.h"
+	"fecha.h"
+
+1607725992 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_arqueos_de_caja.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"rlutil.h"
+	"fecha.h"
+	"arqueos_de_caja.h"
+	"archivo_arqueos_de_caja.h"
+
+1607454253 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\arqueos_de_caja.h
+	"fecha.h"
+
+1607726058 c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_arqueos_de_caja.h
+	"fecha.h"
+	"arqueos_de_caja.h"
+
+1607456393 source:c:\users\juan manuel gross\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\arqueos_de_caja.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"rlutil.h"
+	"arqueos_de_caja.h"
+
+1607375306 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonocliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"abonoCliente.h"
+	"fecha.h"
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_abonos.h"
+	"abonos.h"
+	"archivo_abonos_por_cliente.h"
+	"abonoCliente.h"
+	"archivo_actividades.h"
+	"actividades.h"
+	"archivo_actividades_por_cliente.h"
+	"actividades_por_cliente.h"
+	"archivo_movimientos_de_caja.h"
+	"movimientos_de_caja.h"
+	"menu.h"
+
+1571569938 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606662859 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonocliente.h
+	"fecha.h"
+
+1604337149 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\fecha.h
+
+1607377545 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\cliente.h
+	"fecha.h"
+	"actividades_por_cliente.h"
+
+1605658967 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades_por_cliente.h
+	"fecha.h"
+
+1607380079 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_clientes.h
+
+1606256396 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos.h
+	"abonos.h"
+
+1606258340 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonos.h
+
+1606622579 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos_por_cliente.h
+	"abonoCliente.h"
+
+1605624317 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades.h
+	"actividades.h"
+
+1605410208 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades.h
+
+1606614575 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades_por_cliente.h
+	"actividades_por_cliente.h"
+
+1607375502 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_movimientos_de_caja.h
+	"movimientos_de_caja.h"
+
+1606659530 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\movimientos_de_caja.h
+	"fecha.h"
+
+1607455564 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\menu.h
+
+1606538343 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\abonos.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"abonos.h"
+	"archivo_abonos.h"
+
+1606536863 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1606424410 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"archivo_actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"rlutil.h"
+
+1606418416 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"archivo_abonos.h"
+	"abonos.h"
+
+1607723215 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_abonos_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"archivo_abonos.h"
+	"archivo_abonos_por_cliente.h"
+	"abonoCliente.h"
+	"fecha.h"
+
+1606535208 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"actividades.h"
+	"rlutil.h"
+	"archivo_actividades.h"
+
+1607728336 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_actividades_por_cliente.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"cliente.h"
+	"actividades_por_cliente.h"
+	"rlutil.h"
+	"archivo_actividades_por_cliente.h"
+	"archivo_actividades.h"
+
+1607725992 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_arqueos_de_caja.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"rlutil.h"
+	"fecha.h"
+	"arqueos_de_caja.h"
+	"archivo_arqueos_de_caja.h"
+
+1607454253 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\arqueos_de_caja.h
+	"fecha.h"
+
+1607726058 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_arqueos_de_caja.h
+	"fecha.h"
+	"arqueos_de_caja.h"
+
+1607724588 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_clientes.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+
+1607375697 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\archivo_movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+
+1607456352 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\arqueos_de_caja.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"rlutil.h"
+	"arqueos_de_caja.h"
+
+1607728336 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\cliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"archivo_actividades_por_cliente.h"
+	"fecha.h"
+	"rlutil.h"
+	"actividades_por_cliente.h"
+	"actividades.h"
+	"menu.h"
+
+1604774503 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\fecha.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"fecha.h"
+
+1607728578 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<cstdio>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"rlutil.h"
+	"cliente.h"
+	"fecha.h"
+	"menu.h"
+	"archivo_clientes.h"
+	"archivo_actividades_por_cliente.h"
+
+1607726570 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\menu.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"rlutil.h"
+	"cliente.h"
+	"archivo_clientes.h"
+	"archivo_actividades.h"
+	"actividades.h"
+	"actividades_por_cliente.h"
+	"archivo_actividades_por_cliente.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+	"archivo_abonos.h"
+	"abonos.h"
+	"abonoCliente.h"
+	"archivo_abonos_por_cliente.h"
+	"reportes.h"
+	"arqueos_de_caja.h"
+	"archivo_arqueos_de_caja.h"
+
+1607450761 c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\reportes.h
+	"fecha.h"
+
+1607374190 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\movimientos_de_caja.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"movimientos_de_caja.h"
+	"archivo_movimientos_de_caja.h"
+	"fecha.h"
+	"menu.h"
+
+1607450732 source:c:\users\juan manuel\dropbox\utn\1er año\laboratorio de computación 2\trabajos practicos obligatorios\tp final\your_gym\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"reportes.h"
+	"abonoCliente.h"
+	"archivo_movimientos_de_caja.h"
+
